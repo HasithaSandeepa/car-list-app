@@ -1,0 +1,31 @@
+[
+  { "brand": "Tesla", "models": ["Model S", "Model 3", "Model X", "Model Y"] },
+  { "brand": "BMW", "models": ["i8", "X5", "M3", "M4"] },
+  { "brand": "Audi", "models": ["A3", "A4", "A6", "Q7"] },
+  {
+    "brand": "Mercedes-Benz",
+    "models": ["C-Class", "E-Class", "S-Class", "G-Class"]
+  },
+  { "brand": "Porsche", "models": ["911", "Cayenne", "Macan", "Panamera"] },
+  { "brand": "Ford", "models": ["Mustang", "F-150", "Escape", "Explorer"] },
+  {
+    "brand": "Chevrolet",
+    "models": ["Corvette", "Camaro", "Silverado", "Malibu"]
+  },
+  { "brand": "Lamborghini", "models": ["Huracán", "Aventador", "Urus"] },
+  { "brand": "Ferrari", "models": ["488 GTB", "Portofino", "Roma"] },
+  { "brand": "Jaguar", "models": ["F-Type", "XJ", "XE", "XF"] },
+  { "brand": "Maserati", "models": ["GranTurismo", "Quattroporte", "Levante"] },
+  { "brand": "Nissan", "models": ["GT-R", "370Z", "Altima", "Rogue"] },
+  { "brand": "Subaru", "models": ["WRX STI", "Outback", "Forester", "Ascent"] },
+  { "brand": "Hyundai", "models": ["Veloster", "Elantra", "Tucson", "Kona"] },
+  { "brand": "Kia", "models": ["Stinger", "Sorento", "Optima", "Sportage"] },
+  { "brand": "Alfa Romeo", "models": ["Giulia", "Stelvio", "4C"] },
+  { "brand": "Aston Martin", "models": ["Vantage", "DB11", "DBS"] },
+  {
+    "brand": "Bentley",
+    "models": ["Continental GT", "Bentayga", "Flying Spur"]
+  },
+  { "brand": "Rolls-Royce", "models": ["Phantom", "Ghost", "Cullinan"] },
+  { "brand": "Pagani", "models": ["Huayra", "Zonda"] }
+]
